@@ -23,7 +23,7 @@ export const FACTORY_ADDRESS = '0x9fD7c2Ce6153d49641979e49F08A59E79d54565D' // U
 
 export const INIT_CODE_HASH = '0xd34ac34fd2417b790a9564ec6e34904a4d8278a50bc27bd553e17bce8f10a9a9d0d4c4cd0848c93cb4fd1f498d7013ee6bfb25783ea21593d5834f5d250ece66' // Updated Seed Factory
 
-export const MINIMUM_LIQUIDITY = JSBI.BigInt(1000)
+export const MINIMUM_LIQUIDITY = JSBI.BigInt(1)
 
 // exports for internal consumption
 export const ZERO = JSBI.BigInt(0)
